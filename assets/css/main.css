@@ -1791,8 +1791,9 @@
 
 /* Basic */
 
-	body {
+	body { 
 		background: #f5f5f5;
+		background-image:url("../../images/seigaiha.png");
 	}
 
 	body, input, select, textarea {
@@ -2377,6 +2378,7 @@
 
 		.image.left {
 			float: left;
+			
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
 		}
@@ -3030,7 +3032,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/383.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3045,6 +3047,7 @@
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #fff;
+
 		}
 
 		#banner h2 {
@@ -3124,7 +3127,7 @@
 
 	#footer {
 		background: #f0f0f0;
-		padding: 4em 0 6em 0;
+		padding: 2em 0 2em 0;
 		text-align: center;
 	}
 
