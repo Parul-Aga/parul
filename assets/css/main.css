@@ -24,10 +24,12 @@
 
 	body {
 		line-height: 1;
+		
 	}
 
 	ol, ul {
 		list-style: none;
+		font-size: 15pt
 	}
 
 	blockquote, q {
@@ -1830,6 +1832,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 15pt
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2810,6 +2813,7 @@
 		top: 0;
 		width: 100%;
 		z-index: 10000;
+		font-size: 16pt;
 	}
 
 		#header h1 {
@@ -2936,6 +2940,7 @@
 			background: none;
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
+			font-size: 16pt
 		}
 
 			#header.alt nav > ul > li a:not(.button).icon:before {
