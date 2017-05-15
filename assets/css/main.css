@@ -16,7 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-	
+
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2413,7 +2413,7 @@
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
-		padding-left: 1.25em;
+		padding-left: 2em;
 	}
 
 		ol li {
@@ -2424,7 +2424,7 @@
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 2em;
 	}
 
 		ul li {
@@ -2735,7 +2735,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #ecaa96;
+				background-color: #4bb37e;
 			}
 
 			input[type="submit"].special:active,
